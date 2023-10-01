@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
-  "main": "jano.js",
+  "main": "tamo.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node tamo.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
